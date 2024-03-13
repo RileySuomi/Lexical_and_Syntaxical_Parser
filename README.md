@@ -303,24 +303,4 @@ Assessment will consider the following factors in the grading of this assignment
 -	Plagiarism will have a double zero mark (in addition to losing 10% of your final grade, the person that plagiarizes will lose an additional 10% of their final grade), and there will be a report filed in the students’ academic record.
 - Remember that you will be assessed about this assignment in the course tests, so work on this conscientiously.
 
-## Extra Challenge
 
-Create an additional file with a decorated (Tokens with Lexemes on the Leafs) parse tree. The file should be named like the input file but with the extension `.pt` (stands for parse tree), for instance if the input file is `test1.da` the parse tree should be in file `test1.pt`. You are allowed to create an HTML file, or any **standard** format that can be visualized by a Firefox browser.
-
-
-**NOTE**
-You just need to report the first error that you find (that is what "ostrich" version means), if you find a lexical error, report it and stop the program, if the program passes the lexical analysis, if it finds a syntax error, report it and stop the program. If the program passes both the lexical and syntax analyzers then proceed to generate the code.
-
-> Hiding the head in the Sand. [Here](https://www.phrases.org.uk/meanings/bury-your-head-in-the-sand.html) you may find information about the expression that says that an "ostrich hides their head in the sand." Basically, in this context it means that if you are executing an operation that has many steps, and one of those steps fails, the whole thing comes to a stop. It is also called "panic resolution," however, I decided not to use it because students think that I mean that they should call the `panic`  function.
-
-
-## Academic Integrity
-This programming assignment is to be done on an individual basis. At the same time, it is understood that learning from your peers is valid and you are encouraged to talk among yourselves about programming in general and current assignments in particular.  Keep in mind, however, that each individual student must do the work in order to learn.  Hence, the following guidelines are established:
-- Feel free to discuss any and all programming assignments but do not allow other students to look at or copy your code. Do not give any student an electronic or printed copy of any program you write for this class.
-- Gaining the ability to properly analyze common programming errors is an important experience. Do not deprive a fellow student of his/her opportunity to practice problem solving: control the urge to show them what to do by writing the code for them.
-- If you’ve given the assignment a fair effort and still need help, see the instructor or a lab assistant.
-- **If there is any evidence that a program or other written assignment was copied from another student, neither student will receive any credit for it. This rule will be enforced.**
-- **If there is any evidence that a program or other written assignment was copied from any source, the student will not receive any credit for it. This rule will be enforced.**
-- Protect yourself: Handle throw-away program listings carefully, keep your repository private.
-
-Refer to the ECS Department Policy on Academic Integrity that is included in the class syllabus.
